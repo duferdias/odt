@@ -1,0 +1,9 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="Current">
+    <Product ID="Home2024Retail">
+      <Language ID="pt-br"/>
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" Channel="Current"/>
+  <Display Level="Full" AcceptEULA="TRUE"/>
+</Configuration>

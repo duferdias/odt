@@ -1,0 +1,9 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="Current" Version="16.0.12527.22286">
+    <Product ID="ProPlusRetail">
+      <Language ID="pt-br"/>
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" Channel="Current"/>
+  <Display Level="Full" AcceptEULA="TRUE"/>
+</Configuration>
